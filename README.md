@@ -37,7 +37,7 @@
 
 - How is the district summary affected?
 	
-	It has changes to all scores by less than 0.5 percentage points (or change by less than 0.5%) - no impact to school or student count.
+	 All scores changed by less than 0.5 percentage points(or changed by less than 0.5%) - there is no changes on school or student count.
   
   <p align="left">
 	<img src="Resources/school_district_summary.png" width="1000">
@@ -45,7 +45,7 @@
 
 - How is the school summary affected?
 
-    No change to ranking, however Thomas High School scores did change, but by less than 1 percentage point (or changed by less than 1%) for each metric.
+    No changes according to ranks  , but Thomas High School's scores did change by less than 1 percentage point (or changed by less than 1%) for each metric.
 	
 	
   <p align="left">
@@ -56,7 +56,7 @@
 - Top 5 performing schools:
 
 
-	<p><img src="Resources/.png" width="1000"></p>
+	<p><img src="Resources/top5_performing_schools.png" width="1000"></p>
 	
 	
 	
@@ -64,7 +64,7 @@
 
 
 
-	<p><img src="Resources/.png" width="1000"></p>
+	<p><img src="Resources/bottom5_performing_schools.png" width="1000"></p>
 	
 	
 	
@@ -72,6 +72,7 @@
      - The overall passing percentage for Thomas High School fell to 65%
      - The overall passing percentage for the entire district fell to 64.9%
      - Thomas High School was no longer included on the list of top five schools.
+
 
 - How does replacing the ninth-grade scores affect the following:
 	- The overall passing percentages of Thomas High School decreased by 0.11%
