@@ -36,13 +36,18 @@
 <p>
 
 - How is the district summary affected?
+	
+	It has changes to all scores by less than 0.5 percentage points (or change by less than 0.5%) - no impact to school or student count.
   
   <p align="left">
 	<img src="Resources/school_district_summary.png" width="1000">
 </p>
 
 - How is the school summary affected?
-    
+
+    No change to ranking, however Thomas High School scores did change, but by less than 1 percentage point (or changed by less than 1%) for each metric.
+	
+	
   <p align="left">
 	<img src="Resources/school_summary.png" width="1000">
 </p>
