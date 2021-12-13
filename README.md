@@ -60,16 +60,14 @@
    
 - **Math scores by grade**
     	
-	<img src="Resources/math_scores_by_grade.png" width="500"> 
+	<p><img src="Resources/math_scores_by_grade.png" width="500"></p> 
 	
 	
 	
  -  **Reading scores by grade**	
+  	<p><img src="Resources/reading_scores_by_grade.png" width="400"> </p>
 	
-        <img src="Resources/reading_scores_by_grade.png" width="400">
-	
-	
-	
+  	
  - **Scores by school spending** 
     
 	<img src="Resources/scores_by_school_spending.png" width="1000">
