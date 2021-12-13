@@ -38,13 +38,13 @@
 - How is the district summary affected?
   
   <p align="left">
-	<img src="Resources/school_district_summary.png" width="400">
+	<img src="Resources/school_district_summary.png" width="1000">
 </p>
 
 - How is the school summary affected?
     
   <p align="left">
-	<img src="Resources/school_summary.png" width="400">
+	<img src="Resources/school_summary.png" width="1000">
 </p>
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -53,23 +53,32 @@
      - Thomas High School was no longer included on the list of top five schools.
 
 - How does replacing the ninth-grade scores affect the following:
-    - Math and reading scores by grade
-    <p align="left">
-	<img src="Resources/math_and_reading_scores_by_grade.png" width="400">
-</p>
-    - Scores by school spending
-    <p align="left">
-	<img src="Resources/scores_by_school_spending.png" width="400">
-</p>
-    - Scores by school size
-    <p align="left">
-	<img src="Resources/scores_by_school_size.png" width="400">
-</p>
-    - Scores by school type
-    <p align="left">
-	<img src="Resources/scores_by_school_Type.png" width="400">
-</p>
-
+	- The overall passing percentages of Thomas High School decreased by 0.11%
+	- The average scores of Thomas High School for math and reading increased by 0.06
+	- For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
+	- School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth 	  through twelfth graders.
+    - **Math and reading scores by grade**
+    	
+	<img src="Resources/math_scores_by_grade.png" width="500"><img src="Resources/reading_scores_by_grade.png" width="500">
+	
+	
+	
+    - **Scores by school spending** 
+    
+	<img src="Resources/scores_by_school_spending.png" width="1000">
+	
+	
+	
+    - **Scores by school size**
+   	 
+	<img src="Resources/scores_by_school_size.png" width="1000">
+	
+	
+	
+    - **Scores by school type**
+  	 
+	<img src="Resources/scores_by_school_Type.png" width="1000">
+	
   
 </p>
 
