@@ -56,7 +56,7 @@
 - Top 5 performing schools:
 
 
-	<p><img src="Resources/school_summary.png" width="1000"></p>
+	<p><img src="Resources/.png" width="1000"></p>
 	
 	
 	
@@ -64,7 +64,7 @@
 
 
 
-	<p><img src="Resources/school_summary.png" width="1000"></p>
+	<p><img src="Resources/.png" width="1000"></p>
 	
 	
 	
