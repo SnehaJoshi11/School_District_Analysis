@@ -3,14 +3,14 @@
   <p>
    The school board has notified that the "students_complete.csv" file shows evidence of academic dishonesty on "reading" and "math" grades for Thomas High School ninth graders  which appears to have been altered.
   
-  Also the school board does not know the full extent of the academic dishonesty, so they want to hold on state-testing standards and need help to solve this problem.
+  Also, the school board does not know the full extent of the academic dishonesty, so they want to hold on state-testing standards and need help to solve this problem.
     Their requirement is to make Thomas High School with NaNs, so that rest of the data will remain intact.
 </p>
 
 ## Purpose 
   <p>
-  The purpose of this project is to analyze the School District data on basis of school budget, students scores as per their grades.
-  Also to learn new insights which will give us clear view of results on each schools performance. 
+  The purpose of this project is to analyze the School District data on basis of school budget, student scores as per their grades.
+  Also, to learn new insights which will give us clear view of results on each school's performance. 
   </P>
 
  ## Requirements:
@@ -56,7 +56,7 @@
 	- The overall passing percentages of Thomas High School decreased by 0.11%
 	- The average scores of Thomas High School for math and reading increased by 0.06
 	- For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
-	- School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth 	  through twelth graders.
+	- School rankings are unchanged. Thomas High School is still the second-best performing school in the district with an overall passing rate of 90.63% among their tenth 	  through twelfth graders.
    
 - **Math scores by grade**
     	
@@ -92,7 +92,7 @@
 	<p><img src="Resources/scores_by_school_Type.png" width="1000"></p>
 	
 	
-	*Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).*
+	*Scores by School Type - changes to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).*
   
 </p>
 
@@ -103,7 +103,7 @@
 
 <p>
 	
-After replacing reading and math scores to Nan for the ninth grade at Thomas High School, some changes occurs in School district analysis:
+After replacing reading and math scores to Nan for the ninth grade at Thomas High School, some changes occur in School district analysis:
   
 - Relacing by the ninth graders' scores with NaN, Thomas High School's overall passing percentages and average scores changes abruptly. 
   
