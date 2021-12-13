@@ -92,5 +92,7 @@
 <p>
 School district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   
-  In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
+Relacing by the ninth graders' scores with NaN, Thomas High School's overall passing percentages and average scores changes abruptly. The district has also had its average math and reading scores decrease, as well as the overall passing percentage for students. 
+	Also, Thomas High School lost its placement as a top five school within this District. 
+	But , after updating the total student counts and exclude it to the Thomas High School ninth graders and omitting their scores from the school data, Thomas High School again achieve its high average scores and retained its position as the number two school in the District.
 </p>
