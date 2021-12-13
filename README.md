@@ -16,7 +16,7 @@
  ## Requirements:
   - A high-level snapshot of the district's key metrics, presented in a table format
   - An overview of the key metrics for each school, presented in a table format
-  - Tables presenting each of the following metrics:
+  - Tables presenting each of the following metrics
   - Top 5 and bottom 5 performing schools, based on the overall passing rate
   - The average math score received by students in each grade level at each school
   - The average reading score received by students in each grade level at each school
@@ -52,6 +52,22 @@
 	<img src="Resources/school_summary.png" width="1000">
 </p>
 
+
+- Top 5 performing schools:
+
+
+	<p><img src="Resources/school_summary.png" width="1000"></p>
+	
+	
+	
+- Bottom 5 performing schools:
+
+
+
+	<p><img src="Resources/school_summary.png" width="1000"></p>
+	
+	
+	
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
      - The overall passing percentage for Thomas High School fell to 65%
      - The overall passing percentage for the entire district fell to 64.9%
