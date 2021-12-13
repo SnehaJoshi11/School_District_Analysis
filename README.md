@@ -71,33 +71,50 @@
  - **Scores by school spending** 
         
 	*Score by school spending Original:*
-	
-    	<img src="Resources/score_by_school_spending_original.png" width="1000">
+	<p>
+    	<img src="Resources/score_by_school_spending_original.png" width="1000"></p>
 	
 	*Score by school spending Updated:*
 	<img src="Resources/scores_by_school_spending.png" width="1000">
 	
 	
 	
-  - **Scores by school size**
+  - **Scores by school size:**
    	 
-	<img src="Resources/scores_by_school_size.png" width="1000">
-	Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+	<p><img src="Resources/scores_by_school_size.png" width="1000"></p>
 	
 	
-  - **Scores by school type**
+	*Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).*
+	
+	
+  - **Scores by school type:**
   	 
-	<img src="Resources/scores_by_school_Type.png" width="1000">
-	Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+	<p><img src="Resources/scores_by_school_Type.png" width="1000"></p>
+	
+	
+	*Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).*
   
+</p>
+
+<p>
 </p>
 
 ## Summary: 
 
 <p>
-School district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+	
+After replacing reading and math scores to Nan for the ninth grade at Thomas High School, some changes occurs in School district analysis:
   
-Relacing by the ninth graders' scores with NaN, Thomas High School's overall passing percentages and average scores changes abruptly. The district has also had its average math and reading scores decrease, as well as the overall passing percentage for students. 
-	Also, Thomas High School lost its placement as a top five school within this District. 
-	But , after updating the total student counts and exclude it to the Thomas High School ninth graders and omitting their scores from the school data, Thomas High School again achieve its high average scores and retained its position as the number two school in the District.
+- Relacing by the ninth graders' scores with NaN, Thomas High School's overall passing percentages and average scores changes abruptly. 
+  
+- The district has also had its average math and reading scores decrease, as well as the overall passing percentage for students. 
+	
+- Also, Thomas High School lost its ranking as a top five school within this District. 
+	
+- But after updating the total student counts and exclude it to the Thomas High School ninth graders and removing their scores from the school data,
+  Thomas High School again achieve its high average scores and gain its position as the number two school in the District.
+	
+</p>
+
+
 </p>
