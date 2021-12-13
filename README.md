@@ -125,7 +125,7 @@
 
 <p>
 	
-After replacing reading and math scores to Nan for the ninth grade at Thomas High School, some changes occur in School district analysis:
+After replacing reading and math scores to Nan for the ninth grade at Thomas High School, some changes occurs in School district analysis:
   
 - Relacing by the ninth graders' scores with NaN, Thomas High School's overall passing percentages and average scores changes abruptly. 
   
@@ -134,7 +134,7 @@ After replacing reading and math scores to Nan for the ninth grade at Thomas Hig
 - Also, Thomas High School lost its ranking as a top five school within this District. 
 	
 - But after updating the total student counts and exclude it to the Thomas High School ninth graders and removing their scores from the school data,
-  Thomas High School again achieve its high average scores and gain its position as the number two school in the District.
+  Thomas High School again reach to its high average scores and gain its position as the number two school in the District.
 	
 </p>
 
