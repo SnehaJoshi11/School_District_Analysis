@@ -37,13 +37,17 @@
 
 - How is the district summary affected?
 	 
-	<img src="Resources/District_summary_original.png" width="1000">
+	<p><img src="Resources/District_summary_original.png" width="1000"></p>
 	
-	 All scores changed by less than 0.5 percentage points(or changed by less than 0.5%) - there is no changes on school or student count.
-  	 The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
+	 - All scores changed by less than 0.5 percentage points(or changed by less than 0.5%) - there is no changes on school or student count.
+	
+  	 - The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
+	 
+	 
   <p align="left">
 	<img src="Resources/school_district_summary.png" width="1000">
-</p>
+  </p>
+
 
 - How is the school summary affected?
 
